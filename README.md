@@ -1,15 +1,16 @@
 
-# 50 Projects in 50 Days - HTML/CSS and JavaScript
+# 50 Projects in 50 Days - HTML, CSS and JavaScript
 
 This is the main repository for all of the projects in the course.
 
 ## Tech Stack
 
-- HTML
-- CSS
-- JavaScript
+- HTML;
+- CSS;
+- JavaScript;
 
 | # | Project |
 | :--- | :----------: |
-| 01 | Introduction |
-| 02 | Expanding Cards |
+| 00 | Introduction |
+| 01 | Expanding Cards |
+| 02 | Progress Steps |
