@@ -18,3 +18,4 @@ This is the main repository for all of the projects in the course.
 | 05  | Blurry Loading       |
 | 06  | Scroll Animation     |
 | 07  | Split Landing Page   |
+| 08  | Form Wave Animation  |
