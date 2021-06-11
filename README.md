@@ -20,3 +20,4 @@ This is the main repository for all of the projects in the course.
 | 07  | Split Landing Page   |
 | 08  | Form Wave Animation  |
 | 09  | Sound Board          |
+| 10  | Dad Jokes            |
