@@ -24,3 +24,4 @@ This is the main repository for all of the projects in the course.
 | 11  | Event KeyCodes       |
 | 12  | FAQ Collapse         |
 | 13  | Random Choice Picker |
+| 14  | Animated Navigation  |
